@@ -35,6 +35,13 @@ Feature	Description
 🏠 Home Page	View a list/grid of all uploaded videos
 🔐 Protected Routes	Only authenticated users can upload, like, or comment
 
+## See Project Over VIew
+<img width="1366" height="610" alt="image" src="https://github.com/user-attachments/assets/f6d7902d-f86c-46c0-982f-c03c72d0deed" />
+<img width="1351" height="594" alt="image" src="https://github.com/user-attachments/assets/d0520dda-5862-4402-a76b-49eded6995bd" />
+<img width="1337" height="590" alt="image" src="https://github.com/user-attachments/assets/a68ab017-8a70-43bc-a506-e894aed2bf3b" />
+<img width="1362" height="587" alt="image" src="https://github.com/user-attachments/assets/6bc4d824-d1ea-40b3-b147-2ce5be75fb10" />
+<img width="1354" height="603" alt="image" src="https://github.com/user-attachments/assets/8d811d2d-2501-47ad-93cc-935f06dffe5d" />
+
 
 📁 Project Structure
 
