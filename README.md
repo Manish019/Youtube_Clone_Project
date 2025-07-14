@@ -53,27 +53,23 @@ bash
 Copy
 Edit
 git clone https://github.com/your-username/youtube-clone.git
-2. Install dependencies
-bash
-Copy
-Edit
+
+3. Install dependencies
+
 cd server
 npm install
 
 cd ../client
 npm install
 
-
-
 4. Run the development servers
-bash
-Copy
-Edit
+
 # In server/
 npm run dev
 
 # In client/
 npm start
+
 👨‍💻 Author
 Manish Aryan
 Passionate full-stack developer skilled in building responsive and dynamic web applications using modern technologies.
