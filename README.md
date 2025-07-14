@@ -52,7 +52,7 @@ Backend-Youtebe
 bash
 Copy
 Edit
-git clone https://github.com/your-username/youtube-clone.git
+git clone https://github.com/Manish019/Youtube_Clone_Project.git
 
 3. Install dependencies
 
