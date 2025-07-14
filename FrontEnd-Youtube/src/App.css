@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+
+body {
+  @apply overflow-x-hidden;
+  /* @apply bg-black; */
+ 
+}
